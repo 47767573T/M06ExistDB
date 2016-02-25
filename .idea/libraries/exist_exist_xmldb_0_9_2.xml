@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="exist:exist-xmldb:0.9.2" type="repository">
+    <properties maven-id="exist:exist-xmldb:0.9.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/exist/exist-xmldb/0.9.2/exist-xmldb-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
